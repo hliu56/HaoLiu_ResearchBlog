@@ -1,1 +1,4 @@
-theme: jekyll-theme-Architect
+title: Hao Liu Research Blog
+description: Notes, experiments, and project updates.
+theme: jekyll-theme-architect
+show_excerpts: true
